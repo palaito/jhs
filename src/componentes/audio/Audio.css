@@ -1,0 +1,68 @@
+.boton-play{
+ background: crimson;
+ color: rgb(250, 245, 245);
+ font-size: 20px;
+ padding: 2px;
+ width: 30px;
+ height: 30px;
+ text-align: center;
+ line-height: 5px;
+ border-radius: 50%;
+ cursor: pointer;
+} 
+
+.boton-play:hover{
+    background-color: white;
+    color:crimson;
+}
+
+.boton-pausa:hover{
+    background-color: white;
+    color: black;
+}
+
+.boton-stop:hover{
+    background-color: white;
+    color: rgb(148, 144, 144);
+}
+
+.boton-pausa{
+ background: rgb(12, 12, 12);
+ color: rgb(250, 245, 245);
+ font-size: 20px;
+ padding: 2px;
+ width: 30px;
+ height: 30px;
+ text-align: center;
+ line-height: 5px;
+ border-radius: 50%;
+ cursor: pointer;
+
+} 
+
+
+.boton-stop{
+ background: rgba(151, 148, 148, 0.479);
+ color: rgb(12, 12, 12);
+ font-size: 20px;
+ padding: 2px;
+ width: 30px;
+ height: 30px;
+ text-align: center;
+ line-height: 5px;
+ border-radius: 50%;
+ cursor: pointer;
+
+} 
+
+.audio{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+button{
+    margin: 5px;
+}
+
