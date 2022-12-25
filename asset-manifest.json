@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jhs/static/css/main.362c1b0a.css",
+    "main.js": "/jhs/static/js/main.e0d572b0.js",
+    "static/media/believe.mp3": "/jhs/static/media/believe.531a8a958a1d3b593289.mp3",
+    "static/media/radio.jpg": "/jhs/static/media/radio.6085ad7266251f3d7e66.jpg",
+    "index.html": "/jhs/index.html",
+    "main.362c1b0a.css.map": "/jhs/static/css/main.362c1b0a.css.map",
+    "main.e0d572b0.js.map": "/jhs/static/js/main.e0d572b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362c1b0a.css",
+    "static/js/main.e0d572b0.js"
+  ]
+}
